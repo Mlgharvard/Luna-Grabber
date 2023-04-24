@@ -81,7 +81,7 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ### 3. Open The Luna File:
 
 ```
-You dont need to install any modules opening Luna will install them for you Run  will
+You dont need to install any modules opening Luna will install them for you Run As administration Then it will
 open the gui.
 ```
 ### 4. Create A Webhook:
