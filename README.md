@@ -17,7 +17,6 @@
 </div>
 
 ## Features
-https://mega.nz/folder/NuRSxawD#YndFfVQhyv9m7lzoKemcIA
 - Discord Info
     - Token
     - Nitro
